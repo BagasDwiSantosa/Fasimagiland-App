@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FasimagiLand</string>
+    <string name="imageSs_desc">Splash Screen FasimagiLand</string>
+    <string name="btn_getting_started">Getting Started</string>
+    <string name="text_gs1">Limitless Canvas Creativity</string>
+    <string name="text_gs2">Bring Stories through \n Scribbles on Canvas</string>
+    <string name="image_welcome">image welcome</string>
+
+    <string name="icon_globe_desc">Globe Icon</string>
+    <string name="icon_info_desc">Info Icon</string>
+    <string name="icon_more_desc">More Icon</string>
+    <string name="image_desc">Main Image</string>
+    <string name="text_main1">Follow each part of the story and\nillustrate every highlighted word</string>
+    <string name="text_main2">Let the app analyze your drawing results</string>
+    <string name="text_btn_main">Let\'s Draw Stories</string>
+    <string name="story_title">Story Title</string>
+    <string name="difficulty_easy">Difficulty: Easy</string>
+    <string name="back">Back</string>
+    <string name="choose_the_story">Choose the Story</string>
+    <string name="title">Lorem ipsum dolor sit amet\nconsectetur. Tincidunt\nauctor id non sit ut id\nStrawberry .....</string>
+    <string name="gotit">Got it!</string>
+</resources>

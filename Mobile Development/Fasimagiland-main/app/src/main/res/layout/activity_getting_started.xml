@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GettingStartedActivity">
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="110dp"
+        android:layout_height="23dp"
+        android:contentDescription="@string/image_welcome"
+        android:src="@drawable/imagegs1"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="50dp" />
+
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_width="316dp"
+        android:layout_height="283dp"
+        android:layout_marginTop="70dp"
+        android:contentDescription="@string/image_welcome"
+        android:src="@drawable/imagegs2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/image1" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_gs1"
+        android:fontFamily="@font/patrickhand_regular"
+        android:textSize="26sp"
+        android:textColor="@color/dark_blue1"
+        app:layout_constraintTop_toBottomOf="@id/image2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="60dp" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_gs2"
+        android:fontFamily="@font/patrickhand_regular"
+        android:textSize="16sp"
+        android:textColor="@color/dark_blue2"
+        app:layout_constraintTop_toBottomOf="@id/text1"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="12dp" />
+
+    <Button
+        android:id="@+id/btn_get_started"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="50dp"
+        android:layout_marginEnd="30dp"
+        android:background="@drawable/button_background"
+        android:backgroundTint="@color/blue"
+        android:padding="15dp"
+        android:fontFamily="@font/poppins_bold"
+        android:textSize="18sp"
+        android:text="@string/btn_getting_started"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/text2"
+        tools:alpha="100" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
