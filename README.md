@@ -18,8 +18,8 @@ Nowadays, children spend a lot of time with gadgets. This has raised concerns ab
 ### *Project Scope & Deliverables*
 - Develop an application to recognize the sketch 
 - This application will have these features:
-- - Storytelling
-- - Sketch Drawing
+  - Storytelling
+  - Sketch Drawing
 - Mobile Development team will be in charge of creating the Application based on thedesign
 - Cloud Computing team will be in charge of provisioning and configuring cloud infrastructure.
 - Machine Learning team will be in charge of building a sketch recognition model that fits the story provided in the application. 
