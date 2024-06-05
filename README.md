@@ -1,14 +1,14 @@
 # Fasimagiland-App
-FasimagiLand: Bring Stories through Scribbles
+## FasimagiLand: Bring Stories through Scribbles
 
 ### *Our Team*
-(ML) M228D4KY2644 – Bagas Dwi Santosa – Jenderal Achmad Yani Yogyakarta University - [Active]
-(ML) M006D4KY2510 – Rizky Dwi Purnomo – Brawijaya University - [Active]
-(ML) M228D4KX2379 – Nurul Fatimah – Jenderal Achmad Yani Yogyakarta University - [Active]
-(CC) C185D4KY1208 – Bintang Ilham Habibie – Atma Jaya Yogyakarta University - [Active]
-(CC) C121D4KX0387 – Glori Angel Juniati Sitorus – Telkom Surabaya University - [Active]
-(MD) A351D4KY4489 – Muhamad Bahri – Catur Insan Cendekia University - [Active]
-(MD) A351D4KY4483 – Fahrul Firgiana – Catur Insan Cendekia University - [Active]
+- (ML) M228D4KY2644 – Bagas Dwi Santosa – Jenderal Achmad Yani Yogyakarta University - [Active]
+- (ML) M006D4KY2510 – Rizky Dwi Purnomo – Brawijaya University - [Active]
+- (ML) M228D4KX2379 – Nurul Fatimah – Jenderal Achmad Yani Yogyakarta University - [Active]
+- (CC) C185D4KY1208 – Bintang Ilham Habibie – Atma Jaya Yogyakarta University - [Active]
+- (CC) C121D4KX0387 – Glori Angel Juniati Sitorus – Telkom Surabaya University - [Active]
+- (MD) A351D4KY4489 – Muhamad Bahri – Catur Insan Cendekia University - [Active]
+- (MD) A351D4KY4483 – Fahrul Firgiana – Catur Insan Cendekia University - [Active]
 
 
 ### *Executive Summary/Abstract*
