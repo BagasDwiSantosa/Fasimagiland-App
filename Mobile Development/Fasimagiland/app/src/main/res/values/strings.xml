@@ -1,22 +1,41 @@
 <resources>
     <string name="app_name">FasimagiLand</string>
-    <string name="imageSs_desc">Splash Screen FasimagiLand</string>
-    <string name="btn_getting_started">Getting Started</string>
-    <string name="text_gs1">Limitless Canvas Creativity</string>
-    <string name="text_gs2">Bring Stories through \n Scribbles on Canvas</string>
-    <string name="image_welcome">image welcome</string>
+    <string name="imageSs_desc">Layar Pembuka FasimagiLand</string>
+    <string name="btn_getting_started">Mulai</string>
+    <string name="title_menu_1">Kreativitas Kanvas Tanpa Batas</string>
+    <string name="desc_menu_1">Bawa Cerita melalui \n Coretan di Kanvas</string>
+    <string name="title_menu_2">Select a Story</string>
+    <string name="desc_menu_2">Choose from a variety of stories \n to start your drawing journey</string>
+    <string name="title_menu_3">Read the Highlighted Word</string>
+    <string name="desc_menu_3">Enjoy the story and \n Focus on the word highlighted \n in the story segment</string>
+    <string name="title_menu_4">Draw on the Canvas</string>
+    <string name="desc_menu_4">Illustrate the highlighted word \n on the canvas provided \n and repeat the steps</string>
+    <string name="image_welcome">gambar selamat datang</string>
 
-    <string name="icon_globe_desc">Globe Icon</string>
-    <string name="icon_info_desc">Info Icon</string>
-    <string name="icon_more_desc">More Icon</string>
-    <string name="image_desc">Main Image</string>
-    <string name="text_main1">Follow each part of the story and\nillustrate every highlighted word</string>
-    <string name="text_main2">Let the app analyze your drawing results</string>
-    <string name="text_btn_main">Let\'s Draw Stories</string>
-    <string name="story_title">Story Title</string>
-    <string name="difficulty_easy">Difficulty: Easy</string>
-    <string name="back">Back</string>
-    <string name="choose_the_story">Choose the Story</string>
+    <string name="icon_globe_desc">Ikon Bola Dunia</string>
+    <string name="icon_info_desc">Ikon Info</string>
+    <string name="icon_more_desc">Ikon Lainnya</string>
+    <string name="image_desc">Gambar Utama</string>
+    <string name="text_main1">Ikuti setiap bagian cerita dan\nilustrasikan setiap kata yang disorot</string>
+    <string name="text_main2">Biarkan aplikasi menganalisis hasil gambar Anda</string>
+    <string name="text_btn_main">Ayo Gambar Cerita</string>
+    <string name="story_title">Judul Cerita</string>
+    <string name="difficulty_easy">Kesulitan: Mudah</string>
+    <string name="back">Kembali</string>
+    <string name="choose_the_story">Pilih Cerita</string>
     <string name="title">Lorem ipsum dolor sit amet\nconsectetur. Tincidunt\nauctor id non sit ut id\nStrawberry .....</string>
-    <string name="gotit">Got it!</string>
+    <string name="gotit">Mengerti!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_analyze_true">HEBAT!</string>
+    <string name="text_analyze_true">Gambar Anda sesuai dengan cerita</string>
+    <string name="image_analyze">Gambar Analisis</string>
+    <string name="btn_analyze">Periksa</string>
+    <string name="draw_the_highlight_word">Gambar kata yang disorot</string>
+    <string name="btn_analyze_fragment"><![CDATA[Lanjutkan >]]></string>
+
+    <string name="message_false">UPS!</string>
+    <string name="message_false2">Gambar Anda tidak sesuai dengan cerita,\nSilakan coba lagi</string>
+    <string name="image_classifier_failed">gagal</string>
+    <string name="instruction">Ikuti setiap bagian dari cerita ini dan gambarlah kata yang disorot pada kanvas yang tersedia. Ayo mulai!</string>
+    <string name="message">gagal memuat...</string>
 </resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="420dp"
+    android:layout_gravity="center"
+    tools:context=".ui.component.AnalyzeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:background="@android:color/white">
+
+        <ImageView
+            android:id="@+id/iv_analyze"
+            android:layout_width="233dp"
+            android:layout_height="226dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/image_analyze"
+            android:src="@drawable/image_analyze" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/outfit_bold"
+            android:paddingTop="16dp"
+            android:textSize="24sp"
+            android:text="@string/message_false" />
+
+        <TextView
+            android:id="@+id/tv_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:fontFamily="@font/outfit_medium"
+            android:paddingTop="5dp"
+            android:textSize="20sp"
+            android:text="@string/message_false2" />
+
+        <Button
+            android:id="@+id/btn_get_started"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="30dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="30dp"
+            android:layout_gravity="center"
+            android:background="@drawable/button_background"
+            android:backgroundTint="@color/blue"
+            android:fontFamily="@font/outfit_bold"
+            android:padding="6dp"
+            android:text="@string/btn_analyze_fragment"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+
+</FrameLayout>

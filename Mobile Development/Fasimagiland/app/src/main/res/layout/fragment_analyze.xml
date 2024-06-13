@@ -1,0 +1,58 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="300dp"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_card"
+    tools:context=".ui.component.AnalyzeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- Your content here -->
+        <ImageView
+            android:id="@+id/iv_analyze"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/image_analyze"
+            android:src="@drawable/blank_photo_analyze" />
+
+        <TextView
+            android:id="@+id/tv_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@font/outfit_bold"
+            android:paddingTop="16dp"
+            android:textSize="20sp"
+            android:text="@string/title_analyze_true" />
+
+        <TextView
+            android:id="@+id/tv_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:fontFamily="@font/outfit_medium"
+            android:paddingTop="5dp"
+            android:layout_marginBottom="16dp"
+            android:textSize="20sp"
+            android:text="@string/text_analyze_true" />
+
+        <Button
+            android:id="@+id/btn_get_started"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@drawable/button_background"
+            android:backgroundTint="@color/blue"
+            android:fontFamily="@font/outfit_bold"
+            android:padding="10dp"
+            android:text="@string/btn_analyze_fragment"
+            android:textSize="18sp" />
+
+    </LinearLayout>
+</FrameLayout>

@@ -5,5 +5,13 @@
          <item name="colorPrimary">@color/blue</item>
     </style>
 
+    <style name="AnalyzeDialog" parent="Theme.AppCompat.Dialog">
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.6</item>
+    </style>
+
     <style name="Theme.FasimagiLand" parent="Base.Theme.FasimagiLand" />
 </resources>

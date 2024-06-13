@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:id="@+id/main"
     android:padding="16dp"
-    android:background="@android:color/white">
+    android:background="@color/white">
 
     <!-- Icon Group -->
     <LinearLayout

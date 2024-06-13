@@ -8,6 +8,7 @@ import android.os.Handler
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
 import com.arvl.fasimagiland.databinding.ActivitySplashBinding
+import com.arvl.fasimagiland.ui.screen.gettingstarted.GettingStartedActivity
 
 @SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {
